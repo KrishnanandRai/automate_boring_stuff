@@ -6,4 +6,4 @@ python script to automate result extraction of JEC jabalpur.
 $ python3 jr.py 
 ```
 
-### License - ### MIT
+### License -  MIT
